@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "name": "Dave Koagow",
+    "title": "Informatics Student | Frontend Developer",
+    "description": "Saya adalah mahasiswa Informatika yang menyukai Codingan, dan suka bermain Catur (!!)",
+    "photo": "/images/profile.jpeg"
+  },
+  "education": [
+    { "id": 1, "school": "SMP Advent Kaima", "year": "2017 - 2020", "degree": "Pelajar" },
+    { "id": 2, "school": "SMK Advent Kaima", "year": "2020 - 2023", "degree": "Teknik Komputer" },
+    { "id": 3, "school": "Universitas Klabat", "year": "2023 - Sekarang", "degree": "Informatika" }
+
+  ],
+  "skills": [
+    { "id": 1, "name": "HTML", "level": "Pelajar" },
+    { "id": 2, "name": "CSS", "level": "Pelajar" },
+    { "id": 3, "name": "JavaScript", "level": "Pelajar" },
+    { "id": 4, "name": "React.js", "level": "Pelajar" },
+    { "id": 5, "name": "TailwindCSS", "level": "Pelajar" },
+    { "id": 6, "name": "Chess.com", "level": "Pelajar" }
+  ],
+  "projects": [
+    { "id": 1, "title": "Website Portofolio", "desc": "Website pribadi dengan React dan TailwindCSS." },
+    { "id": 2, "title": "Sistem Reservasi Restoran", "desc": "Proyek database sederhana untuk reservasi meja restoran." }
+  ]
+}
